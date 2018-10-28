@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* These are a
+* Few of my
+* Favorite
+* Things
